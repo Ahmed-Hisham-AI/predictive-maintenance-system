@@ -1,0 +1,9 @@
+date,motor_id,issue,action,status
+2026-09-10,M003,High vibration,Bearing inspection,Resolved
+2026-09-12,M005,High temperature,Cooling system inspection,Open
+2026-09-13,M002,Abnormal current,Motor load inspection,Open
+2026-09-14,M004,Low RPM,Drive system inspection,Resolved
+2026-09-15,M008,Increasing vibration,Vibration monitoring,Open
+2026-09-16,M009,Abnormal current,Electrical connection inspection,Resolved
+2026-09-17,M002,Multiple anomalies,Cooling and motor inspection,Open
+2026-09-18,M005,Multiple anomalies,Immediate maintenance inspection,Open
